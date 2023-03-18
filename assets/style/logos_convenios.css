@@ -1,0 +1,82 @@
+.conteiner_convenios{
+   background-image: url(/assets/img/fundo_t.png);
+  background-size: 100%;
+background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+
+  .logos_convenios_1{
+    display: flex;
+    flex-direction: column;
+  
+   justify-content: space-between;
+   
+    
+    
+  }
+
+  .logo_convenio_lista li{
+    display: flex;
+    text-decoration: none;
+    
+    
+    justify-content: space-evenly;
+    
+
+
+  }
+
+  .logo_conevios_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: flex-end;
+    
+  }
+
+
+
+
+
+
+
+  /*tamanhos das imagens*/
+  #ps{   
+width: 200px;
+ height: 100px;
+
+}
+
+#inu{
+    width: 260px;
+    height: 96px;
+    
+}
+
+#gl{
+ 
+    width: 166px;
+    height: 140px;
+   
+}
+#amil{
+    width: 180px;
+    height: 70px;
+}
+
+#bra{
+    
+    width: 294px;
+    height: 70px;
+   
+}
+
+#ntd{
+    width: 166px;
+    height: 190px;
+    
+}
+
+  
